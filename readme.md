@@ -2,7 +2,7 @@
 
 ## Overview
 
-Image Fusion is a project designed to integrate Go and C++ code. This application features a web server built in Go, while the image processing is performed using C++ and OpenCV. This project serves as a trial and verification for myself to successfully build and run two different programming languages together in a single project.
+Image Fusion is a project designed to **integrate Go and C++ code**. This application features a web server built in Go, while the image processing is performed using C++ and OpenCV. This project serves as a trial and verification for myself to successfully build and run two different programming languages together in a single project.
 
 ## Features
 
@@ -14,7 +14,11 @@ Image Fusion is a project designed to integrate Go and C++ code. This applicatio
 ### Prerequisites
 
 - Go: Download from [golang.org](https://golang.org/)
-- C++: Ensure you have a compatible compiler and OpenCV library installed.
+- C++: Ensure you have a compatible compiler.
+
+### Download OpenCV
+
+To install OpenCV, follow the instructions from the [OpenCV installation guide](https://opencv.org/releases/). Ensure you have the required libraries and dependencies set up.
 
 ### Clone the Repository
 
